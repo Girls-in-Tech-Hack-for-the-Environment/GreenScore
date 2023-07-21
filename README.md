@@ -6,18 +6,18 @@ GreenScore leverages AI to shed light on corporate recycling practices in a worl
 
 ## **Use Case 💬**
 
-``` Consumer Awareness:A consumer wants to make more environmentally-friendly purchases. They use this system to scan products while shopping, helping them choose products from companies with higher recycling program scores. The AI system enables the user to make informed decisions based on the environmental impact of their choices.
+-  Consumer Awareness:A consumer wants to make more environmentally-friendly purchases. They use this system to scan products while shopping, helping them choose products from companies with higher recycling program scores. The AI system enables the user to make informed decisions based on the environmental impact of their choices.
 
-Company Benchmarking: A company wishes to understand where they stand in terms of environmental friendliness compared to competitors. They use this AI system to benchmark their recycling reward program and identify areas for improvement.
+- Company Benchmarking: A company wishes to understand where they stand in terms of environmental friendliness compared to competitors. They use this AI system to benchmark their recycling reward program and identify areas for improvement.
 
-Research and Analysis: An environmental research organization uses this system to track and analyze recycling program trends across various industries. It allows them to quickly gather data, freeing up time to focus on analysis and reporting.
+- Research and Analysis: An environmental research organization uses this system to track and analyze recycling program trends across various industries. It allows them to quickly gather data, freeing up time to focus on analysis and reporting.
 
-Regulatory Compliance: Government agencies can use the system to monitor companies' recycling programs and ensure they are meeting environmental standards and regulations. If a company's score is low, they can investigate further to understand the reasons behind it.
+- Regulatory Compliance: Government agencies can use the system to monitor companies' recycling programs and ensure they are meeting environmental standards and regulations. If a company's score is low, they can investigate further to understand the reasons behind it.
 
-Environmental Advocacy:Nonprofit environmental organizations can use the system to encourage companies to improve their recycling programs. They can highlight companies with high scores as examples of good corporate environmental responsibility, and advocate for those with low scores to improve their practices.
+- Environmental Advocacy:Nonprofit environmental organizations can use the system to encourage companies to improve their recycling programs. They can highlight companies with high scores as examples of good corporate environmental responsibility, and advocate for those with low scores to improve their practices.
 
-Educational Tool: In a classroom setting, teachers can use this system to show students the impact of recycling programs and discuss the role of companies in environmental sustainability. It serves as a practical tool to supplement theoretical learning.
-```
+- Educational Tool: In a classroom setting, teachers can use this system to show students the impact of recycling programs and discuss the role of companies in environmental sustainability. It serves as a practical tool to supplement theoretical learning.
+
 ## **Motivation 💡**
 
 The note about the global plastic recycling rate is a great statistic to include in your introduction or motivation section. It provides clear context and urgency for your project.
