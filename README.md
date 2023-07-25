@@ -10,6 +10,8 @@ GreenScore leverages AI to shed light on corporate recycling practices in a worl
 
 - Company Benchmarking: A company wishes to understand where they stand in terms of environmental friendliness compared to competitors. They use this AI system to benchmark their recycling reward program and identify areas for improvement.
 
+- Transparency:  Companies will be encouraged to continue and improve their environmental efforts as the app continues to display, rank and share the data on their achievements and shortfalls.
+
 - Research and Analysis: An environmental research organization uses this system to track and analyze recycling program trends across various industries. It allows them to quickly gather data, freeing up time to focus on analysis and reporting.
 
 - Regulatory Compliance: Government agencies can use the system to monitor companies' recycling programs and ensure they are meeting environmental standards and regulations. If a company's score is low, they can investigate further to understand the reasons behind it.
