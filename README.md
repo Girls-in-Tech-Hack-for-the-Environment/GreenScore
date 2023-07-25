@@ -48,6 +48,8 @@ LangChain AI: This tool was employed to return data that we seamlessly integrate
 
 ChatGPT: Our core AI model, ChatGPT, processes user inputs in a structured prompt format and produces coherent, relevant outputs. This technology forms the backbone of our platform, powering our data analysis and generating insights about recycling practices.
 
+StreamLit:To host our webapp
+
 ## **Tech Stack & Scalability 🚀**
 
 Explain the tech stack in detail and discuss how you're planning to scale the project.
