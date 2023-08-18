@@ -1,38 +1,37 @@
-from collections import namedtuple
-import altair as alt
-import math
-import pandas as pd
 import streamlit as st
+from PIL import Image
+import requests
 
-"""
-# Welcome to Streamlit!
+# Define the main function that Streamlit will run
+def main():
+    st.title("GreenScore: AI-Powered Sustainability Insight")
+    st.write("Upload an image of a product for analysis:")
 
-Edit `/streamlit_app.py` to customize this app to your heart's desire :heart:
+    # Upload image
+    uploaded_image = st.file_uploader("Choose an image", type=["jpg", "png"])
 
-If you have any questions, checkout our [documentation](https://docs.streamlit.io) and [community
-forums](https://discuss.streamlit.io).
+    if uploaded_image is not None:
+        # Load the uploaded image into a PIL image
+        image = Image.open(uploaded_image)
 
-In the meantime, below is an example of what you can do with just a few lines of code:
-"""
+        # Display the uploaded image
+        st.image(image, caption="Uploaded image", use_column_width=True)
 
+        # Process the image with your Hugging Face model
+        # (This is just a placeholder, you'll need to replace it with the actual model processing code)
+        response = analyze_image(uploaded_image)
 
-with st.echo(code_location='below'):
-    total_points = st.slider("Number of points in spiral", 1, 5000, 2000)
-    num_turns = st.slider("Number of turns in spiral", 1, 100, 9)
+        # Display the analysis results
+        st.write("Analysis results:")
+        st.write(response)
 
-    Point = namedtuple('Point', 'x y')
-    data = []
+# Define the function that sends the image to the Hugging Face model and returns the analysis results
+def analyze_image(image):
+    MODEL_URL = "https://huggingface.co/your-model"
+    response = requests.post(MODEL_URL, files={"image": image.getvalue()})
+    result = response.json()
+    return result
 
-    points_per_turn = total_points / num_turns
-
-    for curr_point_num in range(total_points):
-        curr_turn, i = divmod(curr_point_num, points_per_turn)
-        angle = (curr_turn + 1) * 2 * math.pi * i / points_per_turn
-        radius = curr_point_num / total_points
-        x = radius * math.cos(angle)
-        y = radius * math.sin(angle)
-        data.append(Point(x, y))
-
-    st.altair_chart(alt.Chart(pd.DataFrame(data), height=500, width=500)
-        .mark_circle(color='#0068c9', opacity=0.5)
-        .encode(x='x:Q', y='y:Q'))
+# Run the main function
+if __name__ == "__main__":
+    main()
