@@ -1,24 +1,23 @@
-
 # **Introduction 🚀**
 
-### GreenScore: AI-Powered Sustainability Insight
+### Green Score: AI-Powered Sustainability Insight
 
 *Accountability through transparency*
 
-GreenScore leverages AI to shed light on corporate recycling practices in a world where less than 9% of plastic is recycled. Our platform empowers consumers and organizations alike to track, compare, and improve recycling performance across industries. Join GreenScore to promote informed decisions and spark a change for a greener planet.
+Green Score leverages AI to shed light on corporate recycling practices in a world where less than 9% of plastic is recycled. Our platform empowers consumers and organizations alike to track, compare, and improve recycling performance across industries. Join Green Score to promote informed decisions and spark a change for a greener planet.
 
 ## **Use Case 💬**
 
-- Consumer Awareness:A consumer wants to make more environmentally-friendly purchases. They use this system to scan products while shopping, helping them choose products from companies with higher recycling program scores. The AI system enables the user to make informed decisions based on the environmental impact of their choices.
-- Company Benchmarking: A company wishes to understand where they stand in terms of environmental friendliness compared to competitors. They use this AI system to benchmark their recycling reward program and identify areas for improvement.
+- Consumer Awareness: A consumer wants to make more environmentally-friendly purchases. They use this system to scan products while shopping, helping them choose products from companies with higher recycling program scores. The AI system enables the user to make informed decisions based on the environmental impact of their choices.
+- Company Benchmark: A company wishes to understand where they stand in terms of environmental friendliness compared to competitors. They use this AI system to benchmark their recycling reward program and identify areas for improvement.
 - Research and Analysis: An environmental research organization uses this system to track and analyze recycling program trends across various industries. It allows them to quickly gather data, freeing up time to focus on analysis and reporting.
 - Regulatory Compliance: Government agencies can use the system to monitor companies' recycling programs and ensure they are meeting environmental standards and regulations. If a company's score is low, they can investigate further to understand the reasons behind it.
-- Environmental Advocacy:Nonprofit environmental organizations can use the system to encourage companies to improve their recycling programs. They can highlight companies with high scores as examples of good corporate environmental responsibility, and advocate for those with low scores to improve their practices.
+- Environmental Advocacy: Nonprofit environmental organizations can use the system to encourage companies to improve their recycling programs. They can highlight companies with high scores as examples of good corporate environmental responsibility, and advocate for those with low scores to improve their practices.
 - Educational Tool: In a classroom setting, teachers can use this system to show students the impact of recycling programs and discuss the role of companies in environmental sustainability. It serves as a practical tool to supplement theoretical learning.
 
 ## **Motivation 💡**
 
-Plastic production has been on a rapid increase since its initial inception in the early 1900s, with production comes waste unfortunately. According to [IUCN](https://www.iucn.org/resources/issues-brief/marine-plastic-pollution#:~:text=Over%20400%20million%20tons%20of,waters%20to%20deep%2Dsea%20sediments.), approximately 14 million tonnes of plastic end up in the ocean every year! This is a terrifying statistic and something we need to address. 
+Plastic production has been on a rapid increase since its initial inception in the early 1900s, with production comes waste unfortunately. According to [IUCN](https://www.iucn.org/resources/issues-brief/marine-plastic-pollution#:~:text=Over%20400%20million%20tons%20of,waters%20to%20deep%2Dsea%20sediments.), approximately 14 million tones of plastic end up in the ocean every year! This is a terrifying statistic and something we need to address. 
 
 Reducing plastic waste globally is essential for several important reasons:
 
@@ -32,9 +31,10 @@ Reducing plastic waste globally is essential for several important reasons:
 
 Countries across the world have each began to introduce policies and legislation to limit and reduce the amounts of virgin plastic being produced and increase recycling efforts, however we feel that more needs to be done to tackle the colossal volume of plastic bottles produced by the beverage industry every year. As said by Oceana, the largest international organization dedicated to ocean conservation, “Beverage companies are major ocean polluters and are producing billions of plastic bottles every year that end up in the sea essentially forever,” said Oceana CEO Andy Sharpless. “They need to take responsibility and make commitments to reduce plastic production and waste.”
 
-Most of the major companies already have existing policies and goals to improve their sustainability and reduce their carbon footprint, however this is not moving fast enough. We feel that by introducing our product, GreenScore, beverage companies will be held accountable by the transparent nature of the product. GreenScore will encourage consumers to check which companies are doing the best environmentally. In a bid to retain consumers and improve their sustainable reputation beverage companies will feel the competition and drive to continue to progress with their environmental policies and reduce their carbon footprint. We believe that this continuous cycle will feed the drive for companies to continue to improve as consumers continue to vet the best company.
+Most of the major companies already have existing policies and goals to improve their sustainability and reduce their carbon footprint, however this is not moving fast enough. Green Score will encourage consumers to check which companies are doing the best environmentally. In a bid to retain consumers and improve their sustainable reputation beverage companies will feel the competition and drive to continue to progress with their environmental policies and reduce their carbon footprint. We believe that this continuous cycle will feed the drive for companies to improve as consumers continue to vet the best company.
 
 ## **Purpose & Target Audience 🎯**
+
 The purpose of Green Score is to push corporate transparency within recycling practices through AI-powered analytics. This enables stakeholders, from consumers to environmental groups, to make informed decisions and advocate for sustainability improvements. By increasing corporate accountability, Green Score motivates consumers to actively participate in recycling while empowering companies to identify areas for enhancement. Ultimately, the solution sparks a ripple effect across industries to continually improve recycling metrics and practices.
 
 Target Audience:
@@ -45,7 +45,7 @@ Target Audience:
 - Regulators - Who need recycling program data to monitor compliance with standards and regulations.
 - Educators - Who can use it as a practical example to teach students about sustainability and corporate responsibility.
 
-## **Go-to-Market Strategy 💼**
+## Go-to-Market Strategy  **💼**
 
 **Marketing Strategy:**
 
@@ -73,12 +73,12 @@ The strategy progresses from content and subscriptions to gamification and diver
 - Monetize newsletter list with sponsorships and partner deals.
 - Sell leaderboard integration and expanded social sharing capabilities to businesses.
 - Targeted virtual advertising based on user demographics and activity.
-  
+
 ## **Tools Used 🛠**
 
 We've harnessed a mix of advanced tools and technologies, each contributing a unique aspect to our project:
 
-**Figma + Miro:** Used for crafting an intuitive and user-friendly design interface, Figma has helped us visualize the user experience and streamline our development process.
+**Figma + Miro:** Used for crafting an intuitive and user-friendly design interface. Figma has helped us visualize the user experience and streamline our development process.
 
 **Hugging Face Model:** Leveraging the power of AI, we utilized the Hugging Face Model to recognize and download images of specific brands. This has not only saved us countless hours but also significantly improved the precision of our data.
 
@@ -94,9 +94,20 @@ We've harnessed a mix of advanced tools and technologies, each contributing a un
 
 Explain the tech stack in detail and discuss how you're planning to scale the project.
 
+Since we decided to work on the web application, our tech stack will be similar to the MERN stack for the web development with the AI integration. 
+
+The front-end – 
+
 ## **Ideas & Planning 🧠**
 
-[Your existing content]
+**Future Marketing and Monetization:**
+
+- Promote new mobile and gamification features through influencers and social campaigns.
+- Offer premium avatars, virtual goods, and expanded green spaces via in-app purchases.
+- Enable brands to sponsor monthly challenges and leaderboard promotions.
+- Monetize newsletter list with sponsorships and partner deals.
+- Sell leaderboard integration and expanded social sharing capabilities to businesses.
+- Targeted virtual advertising based on user demographics and activity.
 
 ## **Features 🌟**
 
@@ -105,46 +116,17 @@ Explain the tech stack in detail and discuss how you're planning to scale the pr
 Below is a list of the current features our website has.
 
 1. **Search Bar:** This allows user to do a text search for a brand. It has an autocomplete functionality, so that users can select a brand that already exists in the database.
-2. **Image uploader:** This feature will allow users to upload a photo of a bottle, the image uploader will then read the image using Hugging Face and then cross reference this with the brands in the database and return the brand name to the user. 
+2. **Image upload:** This feature will allow users to upload a photo of a bottle, the image upload will then read the image using Hugging Face and then cross reference this with the brands in the database and return the brand name to the user. 
     
     Describe how this feature works. Does it allow users to upload an image of a product, or do they search by typing in the brand name? How does the search function handle different brand names, misspellings, etc.?
     
-3. **Navbar: Will display the different pages available to the user and ensure an easy way for users to navigate the site.**
-4. **Data Table:** What kind of data does the dashboard display? How is it organized? How can users interact with it to get the information they need?
-5. **HyperLink:** Within the table, each company will have a hyperlink to their website. This allows users easy navigation to the different company websites, should they wish to explore further.
-6. Badge system - Within the data table there will be a ranking system, so users can easily understand which companies are highest scorers. The top three will follow the universal ranking of gold, silver and bronze. Following this, is a gradient of green, the darker the green the better the company (plus the number of their position in the ranking).
-7. **About us Page:** This page gives context and further information to the user.
-
-**Future Features**
-
-As this project has been developed as part of the Girls in Tech Hackathon, and there is a finite amount of time, not all features could be implemented within the timescale. Below is a list of the features we would want to include in future development of this product.
-
-- Mobile app developed - would include user ability to take photo with camera and check company
-- User login/logout functionality
-- User account/profile page - personalised avatars
-- Virtual green space - the more the user uses their account, the more their garden/green space grows
-- User badge system - able to share this direct to their social media.
-- Company login/logout functionality
-- Companies able to share their status on the leaderboard in their social media/ marketing - direct from website
-- Tab to Contribute ranking score
-- Monthly challenges - for example beach clean ups
-- Newsletter sign up
-
-## **Challenges 🏋️‍♀️**
-
-As a team, we collectively embraced the challenges posed by this hackathon and emerged with valuable insights. Our Project Manager skillfully guided us, honing their abilities in task delegation and team coordination. This ensured that both our design and development teams remained aligned, even within the constraints of our tight timeline. This experience underscored the pivotal role of streamlined task management and skillful collaboration in achieving our shared project objectives.
-
-Simultaneously, our journey introduced us to an array of new tools, enriching our skill sets collaboratively. We seamlessly integrated tools such as Miro, Notion, and Canva, enhancing our collaborative efforts. Additionally, we delved into a new tech stack that included Hugging Face, Streamlit, and Google Colab. This hands-on exposure not only elevated our collective technical proficiency but also reinforced the value of adaptability when navigating evolving technologies. Together, our team's dedication and collaborative spirit enabled us to navigate challenges, learn, and deliver a successful project."
-
-## **What We've Learned 🎓**
-
-As a team, we collectively embraced the challenges posed by this hackathon and emerged with valuable insights. Our Project Manager skillfully guided us, honing their abilities in task delegation and team coordination. This ensured that both our design and development teams remained aligned, even within the constraints of our tight timeline. This experience underscored the pivotal role of streamlined task management and skillful collaboration in achieving our shared project objectives.
-
-Simultaneously, our journey introduced us to an array of new tools, enriching our skill sets collaboratively. We seamlessly integrated tools such as Miro, Notion, and Canva, enhancing our collaborative efforts. Additionally, we delved into a new tech stack that included Hugging Face, Streamlit, and Google Colab. This hands-on exposure not only elevated our collective technical proficiency but also reinforced the value of adaptability when navigating evolving technologies. Together, our team's dedication and collaborative spirit enabled us to navigate challenges, learn, and deliver a successful project."
-
-## **Wrapping Up 🏁**
-
-It was a fun journey for all of us in coming together from different places and continent to work on the hackathon. There were ups and downs when it came to the technical problems and our daily responsibilities could hinder us. It is a learning experience for us from strangers to a team. The takeaway is we are proud as a team for our effort.
+3. **Navbar:** This will display different sections of the site the user can navigate to, ensuring a seamless user experience.
+4. **Data Table: This displays category, ranking, company name and products to the user. In the final column a learn more button is displayed, this takes the user too…**
+5. **Hyperlink:** Within the table, each company will have a hyperlink to their website. This allows users easy navigation to the different company websites, should they wish to explore further.
+6. **Badge system:** Within the data table there will be a ranking system, so users can easily understand which companies are highest scorers. The top three will follow the universal ranking of gold, silver and bronze. Following this, is a gradient of green, the darker the green the better the company (plus the number of their position in the ranking).
+7. **About us:** This section gives context and further information to the user, including information about why the Green Score was created and who are in the team, as this gives contextual information for all users.
+8. **How it Works:** This will show a demo video to the user on how to use the site. 
+9. **Social Media Links:** At the bottom of every page users can navigate to Green Score’s social media pages. Allows users to continue to follow and share information and posts.
 
 ## **Future Scope 🔭**
 
@@ -192,21 +174,35 @@ As Green Score evolves, we envision a comprehensive and interactive platform tha
 
 The future scope of Green Score envisions a dynamic and engaging platform that not only empowers individuals and organizations to make sustainable choices but also drives a global movement toward a greener and more sustainable planet. Through continuous innovation, strategic partnerships, and user-centric features, Green Score will be at the forefront of promoting environmental consciousness and corporate responsibility.
 
+## **Challenges 🏋️‍♀️**
+
+During the hackathon event, our team encountered a range of challenges. From a design standpoint, the constrained time frame hindered in-depth research and testing with actual users, impacting the refinement of our design. On the developer front, grappling with unfamiliar technologies like Hugging Face and Streamlit posed a learning curve. Navigating time differences among our team members was a general hurdle that we managed reasonably well, although our collective ambition might have outpaced the available time. From a project manager standpoint, striving to align with the workflow of weekly standup meetings and tackling the role of lead project manager in a tech-intensive project for the first time. This experience required adapting to novel developer workflows and design methodologies.
+
+## **What We've Learned 🎓**
+
+As a team, we collectively embraced the challenges posed by this hackathon and emerged with valuable insights. Our Project Manager skillfully guided us, honing their abilities in task delegation and team coordination. This ensured that both our design and development teams remained aligned, even within the constraints of our tight timeline. This experience underscored the pivotal role of streamlined task management and skillful collaboration in achieving our shared project objectives.
+
+Simultaneously, our journey introduced us to an array of new tools, enriching our skill sets collaboratively. We seamlessly integrated tools such as Miro, Notion, and Canva, enhancing our collaborative efforts. Additionally, we delved into a new tech stack that included Hugging Face, Streamlit, and Google Colab. This hands-on exposure not only elevated our collective technical proficiency but also reinforced the value of adaptability when navigating evolving technologies. Together, our team's dedication and collaborative spirit enabled us to navigate challenges, learn, and deliver a successful project.
+
+## **Wrapping Up 🏁**
+
+It was a fun journey for all of us in coming together from different places and continent to work on the hackathon. There were ups and downs when it came to the technical problems and our daily responsibilities could hinder us. It is a learning experience for us from strangers to a team. The takeaway is we are proud as a team for our effort.
+
 ## **Proof of Concept/Demo 🎞️**
 
-[Your existing content]
+[Insert Demo Link]
 
 ## **Contributors 🤝**
 
 In a separate section, mention all team members and their contributions to the project. This gives credit to everyone involved and provides a clear picture of team collaboration.
 
-- **Action Items & Future Plans:** The action items show the tasks that your team worked on and the roles of each member. This can go in a section like "Contributors" or "Future Scope".
+- **@domjreynolds (**Project Manager)
+- **[@lylynaheng](https://devpost.com/lylynaheng)** (UX Designer)
+- Persona, user journeys, site map, wireframe, storyboard
+- Mockups and prototypes
+- Presentation and project documentation
+- **@hellouniverse (**Front-end developer)
+- **@anyahush (**Full-stack developer)
+- **[@stp115906]( https://github.com/Stp155906 ) **(@Full-stack developer)
 
-
-
-# Welcome to Streamlit!
-
-Edit `/streamlit_app.py` to customize this app to your heart's desire. :heart:
-
-If you have any questions, checkout our [documentation](https://docs.streamlit.io) and [community
-forums](https://discuss.streamlit.io).
+---
