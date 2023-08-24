@@ -78,7 +78,7 @@ The strategy progresses from content and subscriptions to gamification and diver
 
 We've harnessed a mix of advanced tools and technologies, each contributing a unique aspect to our project:
 
-**Figma:** Used for crafting an intuitive and user-friendly design interface, Figma has helped us visualize the user experience and streamline our development process.
+**Figma + Miro:** Used for crafting an intuitive and user-friendly design interface, Figma has helped us visualize the user experience and streamline our development process.
 
 **Hugging Face Model:** Leveraging the power of AI, we utilized the Hugging Face Model to recognize and download images of specific brands. This has not only saved us countless hours but also significantly improved the precision of our data.
 
